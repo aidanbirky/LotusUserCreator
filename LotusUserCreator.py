@@ -1,3 +1,8 @@
+# This program has two core functions.
+# 1. Creating a Lotus Notes user registration text import file
+# 2. Generating a notesusersetup.ini and compiling a users Notes8 folder
+#
+
 import os
 import time
 import sys
