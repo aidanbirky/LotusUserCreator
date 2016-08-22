@@ -1,2 +1,2 @@
 # Terrible Scripts
-Here lies a few terrible scripts. Some worse than others
+Here are a few terrible scripts. Some worse than others
