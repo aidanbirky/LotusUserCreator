@@ -1,11 +1,10 @@
-########################################
 ## Top Brutes Tweeter
 ## Tweets the top three SSH brute force culprits
 ## Add the below line to crontab to execute at the end of the month
 ## 58 23 * * * [ $(date +\%d) -eq $(echo $(cal) | awk '{print $NF}') ] && python /var/log/topbrutes/topbrutes.py
 ## Written by Aidan
 ## Last modified 29 December 2015
-########################################
+
 
 import os
 import datetime
